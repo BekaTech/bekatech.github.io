@@ -258,6 +258,11 @@ a:hover {
     margin-bottom: 60px;
 }
 
+footer p a {
+    color: #ffd;
+    
+}
+
 @media screen and (max-width: 600px) {
     .div-img {
       width: 100%;
