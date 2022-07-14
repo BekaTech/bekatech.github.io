@@ -255,6 +255,7 @@ a:hover {
     color: #ffdddd;
     margin: 32px;
     padding: 16px;
+    margin-bottom: 60px;
 }
 
 @media screen and (max-width: 600px) {
