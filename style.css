@@ -18,7 +18,7 @@ ul {
     position: fixed;
     bottom: 0;
     width: 100vw;
-z-index: 1;
+    z-index: 1;
 }
 
 
@@ -260,46 +260,36 @@ a:hover {
 
 footer p a {
     color: #ffd !important;
-    
+
 }
+
 
 @media screen and (max-width: 600px) {
     .div-img {
-      width: 100%;
+        width: 100%;
     }
-}
 
-@media screen and (max-width: 600px) {
     .img-fourth-section {
-      width: 100%;
+        width: 100%;
     }
-}
 
-@media screen and (max-width: 600px) {
+
     .div-first-section {
         text-align: center;
-        padding: 40%
+        padding: 40%;
     }
-}
-      
-@media screen and (max-width: 600px) {
+
     .third-section {
-      text-align: center;
-      padding: 19%
-      
+        text-align: center;
+        padding-right: 19%;
     }
-}
 
-@media screen and (max-width: 600px) {
     .div-fourth-section-info {
-      flex-direction: column;
-     
-    }
-}
+        flex-direction: column;
 
-@media screen and (max-width: 600px) {
+    }
+
     ul {
-      display: none;
-     
+        display: none;
     }
 }
