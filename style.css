@@ -263,7 +263,6 @@ footer p a {
 
 }
 
-
 @media screen and (max-width: 600px) {
     .div-img {
         width: 100%;
@@ -273,7 +272,6 @@ footer p a {
         width: 100%;
     }
 
-
     .div-first-section {
         text-align: center;
         padding: 40%;
@@ -281,7 +279,10 @@ footer p a {
 
     .third-section {
         text-align: center;
-        padding-right: 19%;
+    }
+
+    .h1-third-section {
+        display: table-caption
     }
 
     .div-fourth-section-info {
